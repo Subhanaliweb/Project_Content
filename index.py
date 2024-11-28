@@ -79,3 +79,13 @@ plt.show()
 # Undersampling majority classes : 0.16205266711681296
 
 # Ensemble Models : 0.12761647535449022
+
+# neural Network accuracy: 0.1799 - loss: 1.8186 -> Accuracy: [1.7935189008712769, 0.18636056780815125]
+
+#Word2Vec Accuracy: 0.00337609723160027
+
+#Tuned Random Forest: Accuracy: 0.07845369645604004
+
+#Voting Ensemble Accuracy: 0.002025658338960162
+
+#XGBoost Accuracy: 0.0027008777852802163
